@@ -17,10 +17,10 @@ int binary_str(int n)
 }
 int main()
 {
-    coutEnter a numbern;
+    cout<<"Enter a number"<<endl;
     int n;
-    cinn;
-    coutbinary_str(n)endl;
+    cin>>n;
+    cout<<binary_str(n)<<endl;
 
     return 0;
 }
